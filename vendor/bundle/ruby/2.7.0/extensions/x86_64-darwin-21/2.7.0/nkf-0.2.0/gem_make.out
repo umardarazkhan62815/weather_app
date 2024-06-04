@@ -1,0 +1,16 @@
+current directory: /Users/appcrates/Desktop/Reactnative/VirtualWays/WeatherApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+/Users/appcrates/.rbenv/versions/2.7.4/bin/ruby -I /Users/appcrates/.rbenv/versions/2.7.4/lib/ruby/2.7.0 -r ./siteconf20240604-29834-1cwdmrm.rb extconf.rb
+creating Makefile
+
+current directory: /Users/appcrates/Desktop/Reactnative/VirtualWays/WeatherApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" clean
+
+current directory: /Users/appcrates/Desktop/Reactnative/VirtualWays/WeatherApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR="
+compiling nkf.c
+linking shared-object nkf.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/appcrates/Desktop/Reactnative/VirtualWays/WeatherApp/vendor/bundle/ruby/2.7.0/gems/nkf-0.2.0/ext/nkf
+make "DESTDIR=" install
+/usr/local/bin/ginstall -c -m 0755 nkf.bundle ./.gem.20240604-29834-krcypq
